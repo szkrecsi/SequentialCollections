@@ -1,0 +1,6 @@
+c:\users\szkrecsi\documents\visual studio 2017\Projects\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+c:\users\szkrecsi\documents\visual studio 2017\Projects\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+c:\users\szkrecsi\documents\visual studio 2017\Projects\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojResolveAssemblyReference.cache
+c:\users\szkrecsi\documents\visual studio 2017\Projects\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb
