@@ -1,0 +1,6 @@
+c:\users\szkrecsi\documents\visual studio 2017\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache
+c:\users\szkrecsi\documents\visual studio 2017\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+c:\users\szkrecsi\documents\visual studio 2017\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+c:\users\szkrecsi\documents\visual studio 2017\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
