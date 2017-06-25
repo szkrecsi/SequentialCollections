@@ -1,0 +1,6 @@
+c:\users\szkrecsi\documents\visual studio 2017\Projects\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe.config
+c:\users\szkrecsi\documents\visual studio 2017\Projects\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\LookupCollections\LookupCollections\bin\Debug\LookupCollections.pdb
+c:\users\szkrecsi\documents\visual studio 2017\Projects\LookupCollections\LookupCollections\obj\Debug\LookupCollections.csprojResolveAssemblyReference.cache
+c:\users\szkrecsi\documents\visual studio 2017\Projects\LookupCollections\LookupCollections\obj\Debug\LookupCollections.exe
+c:\users\szkrecsi\documents\visual studio 2017\Projects\LookupCollections\LookupCollections\obj\Debug\LookupCollections.pdb
